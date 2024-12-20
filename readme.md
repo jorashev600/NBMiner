@@ -1,4 +1,4 @@
-![](/logo.png)
+jorashevusen600
 
 # NBMiner
 
